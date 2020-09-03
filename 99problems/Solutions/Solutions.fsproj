@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>_Solutions</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Prob01to10.fs" />
+    <Compile Include="Prob11to20.fs" />
+    <Compile Include="Prob21to30.fs" />
+  </ItemGroup>
+</Project>
