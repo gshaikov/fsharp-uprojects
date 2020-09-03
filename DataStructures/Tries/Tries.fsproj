@@ -4,5 +4,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="NaiveTrie.fs" />
+    <Compile Include="RadixTrie.fs" />
   </ItemGroup>
 </Project>

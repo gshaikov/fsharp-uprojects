@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Include="Helpers.fs" />
     <Compile Include="NaiveTrie.fs" />
+    <Compile Include="RadixTrie.fs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
